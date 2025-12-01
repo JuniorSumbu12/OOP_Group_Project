@@ -1,0 +1,1 @@
+﻿<%@page contentType='text/html' pageEncoding='UTF-8'%><html><head><title>CESC Home</title></head><body><h2>Group 4 CESC - Skeleton</h2><ul><li><a href='register.jsp'>Register</a></li><li><a href='login.jsp'>Login</a></li></ul></body></html>

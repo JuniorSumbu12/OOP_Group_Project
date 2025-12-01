@@ -1,0 +1,1 @@
+﻿<form action='register' method='post'>Name: <input name='name'/><br/>Email: <input name='email'/><br/>Password: <input type='password' name='password'/><br/>Role: <select name='role'><option>USER</option><option>SPONSOR</option><option>MAINTAINER</option></select><br/><button type='submit'>Register</button></form>
